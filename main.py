@@ -15,7 +15,7 @@ from rich.table import Table
 from bs4 import BeautifulSoup
 
 url = 'https://en.wikipedia.org/wiki/'
-headers = {'User-Agent': 'DeathBot/0.0'}
+headers = {'User-Agent': 'ObituaryBot/0.0 (ahmedalfraz30@gmail.com) (https://github.com/Alfrazgit/Obituary-Chronicle.git)'}
 filename = "data/death.json"
 
 
