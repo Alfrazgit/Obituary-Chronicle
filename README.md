@@ -18,7 +18,7 @@ This is a small Python script that checks if a person (with a Wikipedia article)
 ## Usage
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Alfrazgit/Obituary-Chronicle.git
    cd wikipedia-death-tracker
    ```
 
