@@ -1,0 +1,27 @@
+{
+    "Nelson_Mandela": {
+        "date": "5 December 2013",
+        "age": "95",
+        "location": "Johannesburg, South Africa"
+    },
+    "Mikel_John_Obi": {
+        "date": null,
+        "age": null,
+        "location": null
+    },
+    "John_Lennon": {
+        "date": "8 December 1980",
+        "age": "40",
+        "location": "New York City, US"
+    },
+    "John_Cena": {
+        "date": null,
+        "age": null,
+        "location": null
+    },
+    "Adolf_Hitler": {
+        "date": "30 April 1945",
+        "age": "56",
+        "location": "Berlin, Germany"
+    }
+}
